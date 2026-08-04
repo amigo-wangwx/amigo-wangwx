@@ -22,14 +22,8 @@ Android / Kotlin / Compose Multiplatform 开发者。
 - 网络请求排查、Deep Link、包体和命令行工具
 - 将重复操作沉淀成可复用、可验证、可交付的工具
 
-## 项目展示原则
-
-首页优先展示原创或主要维护项目。Fork、上游适配、历史 demo 和临时实验项目不会放在首屏，避免干扰对当前项目的判断。
-
 <details>
-<summary>Fork / 上游适配项目</summary>
-
-这类项目通常用于学习、验证方案或针对特定业务问题做小范围适配，不作为首页重点展示。
+<summary>其他项目</summary>
 
 - [AndroidCmdTools](https://github.com/amigo-wangwx/AndroidCmdTools)：Android 命令行工具集合的上游项目适配与本地使用沉淀。
 - [kmpact](https://github.com/amigo-wangwx/kmpact)：基于 AndroidCmdTools 的 Compose Multiplatform 图形化集成实验。
